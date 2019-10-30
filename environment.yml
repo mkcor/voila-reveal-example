@@ -6,6 +6,4 @@ dependencies:
 - pandas=0.25.1
 - plotly=4.1.0
 - voila=0.1.10
-- pip
-- pip:
-  - voila-reveal
+- voila-reveal
