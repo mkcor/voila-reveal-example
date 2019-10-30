@@ -1,4 +1,4 @@
-# work-in-progress demo
+# voila-reveal demo
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mkcor/voila-reveal-example/master) (Jupyter Notebook)
 
